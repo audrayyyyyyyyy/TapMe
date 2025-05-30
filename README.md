@@ -1,4 +1,4 @@
-# SlapMe
+# TapMe
 Where Every Message Feels Like a Conversation
 
 ## How to clone the project
