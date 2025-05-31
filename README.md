@@ -2,9 +2,9 @@
 Where Every Message Feels Like a Conversation
 
 ## Project Demo Screenshots
-![alt text](image.jpg)
-![alt text](image.jpg)
-![alt text](image.jpg)
+![alt text]( https://github.com/audrayyyyyyyyy/TapMe/blob/d4e3f6116060c7ee324fe3b659fa66aae5faf473/demo-screenshots/bcd3d993-620c-4afb-8da1-21dddc07fd32.jpg)
+![alt text](https://github.com/audrayyyyyyyyy/TapMe/blob/d4e3f6116060c7ee324fe3b659fa66aae5faf473/demo-screenshots/04080ebf-b815-440b-8351-f134175ef844.jpg)
+![alt text](https://github.com/audrayyyyyyyyy/TapMe/blob/d4e3f6116060c7ee324fe3b659fa66aae5faf473/demo-screenshots/4cf21ca4-4b6a-4bc1-b468-3dc47f437d5b.jpg)
 
 ## How to clone the project
 
