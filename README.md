@@ -1,6 +1,8 @@
 # TapMe
 Where Every Message Feels Like a Conversation
 
+## Project Demo
+
 ## How to clone the project
 
 1. In your file manager, navigate to where you want the project be created
